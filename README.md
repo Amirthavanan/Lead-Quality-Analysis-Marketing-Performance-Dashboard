@@ -1,8 +1,9 @@
 # Lead-Quality-Analysis-Marketing-Performance-Dashboard
 The project focused on analyzing lead data across multiple dimensions such as ad creatives, publisher sources, customer attributes, and verification scores to uncover patterns affecting lead quality and conversion rates.
 
-<b>Dasboard:</b>
-<img src="">
+<b>Dashboard:</b>
+<img src="Screenshot 2026-03-02 160310.png">
+<img src="Screenshot 2026-03-02 160310.png">
 <br>
 <b> Key Features:</b>
 
