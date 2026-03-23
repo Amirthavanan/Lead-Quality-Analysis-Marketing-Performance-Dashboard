@@ -3,7 +3,7 @@ The project focused on analyzing lead data across multiple dimensions such as ad
 
 <b>Dashboard:</b>
 <img src="Screenshot 2026-03-02 160310.png">
-<img src="Screenshot 2026-03-02 160310.png">
+<img src="Screenshot 2026-03-02 160338.png">
 <br>
 <b> Key Features:</b>
 
