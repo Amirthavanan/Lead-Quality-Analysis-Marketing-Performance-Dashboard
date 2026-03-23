@@ -2,7 +2,7 @@
 The project focused on analyzing lead data across multiple dimensions such as ad creatives, publisher sources, customer attributes, and verification scores to uncover patterns affecting lead quality and conversion rates.
 
 <h3>Dataset:</h3>
-<link href="Analyst_case_study_dataset_edited.xls">Link</link>
+<a href="Analyst_case_study_dataset_edited.xls">Link</a>
 <h3><b>Dashboard:</b></h3>
 <img src="Screenshot 2026-03-02 160310.png">
 <img src="Screenshot 2026-03-02 160338.png">
